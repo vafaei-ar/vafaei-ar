@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alireza Vafaei Sadr.
 - 👀 I’m interested in Data science and medicine.
-- 🌱 I’m currently learning anything new in data science.
-- 💞️ I’m looking to collaborate on medtech projects/researches. 
+- 🌱 I try to learn anything new in data science.
+- 💞️ I look to collaborate on MedTech projects/research. 
 - 📫 You can reach me on Linkedin. 
 
 <!---
